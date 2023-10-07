@@ -12,15 +12,6 @@
 **Returns**
 *Return-Name* - Describe the return value here, then include format example code block
 
-**Procedure**
-<!-- INSERT LOGICAL METHOD PROCEDURE -->
-
-**Code**
-```php
-<!-- Replace 'php' with lang
-     Replace block with method -->
-```
-
 <!-- RINSE + REPEAT THE ABOVE -->
 
 # UPDATED ON : UPDATE-DATE
